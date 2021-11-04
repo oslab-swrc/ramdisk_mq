@@ -312,6 +312,9 @@ config BLK_DEV_RAM
 	  Most normal users won't need the RAM disk functionality, and can
 	  thus say N here.
 
+config BLK_DEV_RAMDISK_MQ
+        tristate "RAMDISK_MQ block device support"
+
 config BLK_DEV_RAM_COUNT
 	int "Default number of RAM disks"
 	default "16"
