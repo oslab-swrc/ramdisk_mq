@@ -41,7 +41,7 @@ You may get this screen.
 Set 'm' to RAMDISK_MQ block device support
 ![ramdisk_mq](https://user-images.githubusercontent.com/13490996/139576646-7dd3d433-6bb1-487f-b025-2e05ec7e0876.png)
 
-EXIT & SAVE
+SAVE & EXIT
 
 OR
 
